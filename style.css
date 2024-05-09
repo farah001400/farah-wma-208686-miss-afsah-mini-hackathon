@@ -1,0 +1,51 @@
+body{
+    background-image:linear-gradient(to right, rgb(228, 228, 158), rgb(235, 228, 129)) ;
+}
+#header{
+    padding: 20px;
+}
+.btn{
+    background-image:linear-gradient(to right, rgb(241, 241, 85),rgb(252, 191, 78)) ;
+    margin: ;
+}
+#nav{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#nav li{
+    display: inline-block;
+}
+#nav li a{
+    padding: 10px 20px;
+    display: block;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.logo{
+    width: 35px;
+    padding: 0 5px;
+}
+.main{
+    margin:90px 0 ;
+}
+.right h1{
+    display: inline-block;
+    padding: 15px;
+}
+.right p{
+    display: inline-block;
+    padding: 15px;
+}
+.right{
+    width:450px;
+    padding: 0 auto;
+}
+.left img{
+    width: 300px;
+    margin: 0 auto;
+}
+
+
